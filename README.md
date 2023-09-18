@@ -60,7 +60,7 @@ You can customize Lana to fit your specific needs:
 
 ## Troubleshooting
 
-If you encounter any issues while using Lana or have suggestions for improvement, please [open an issue](https://github.com/yourusername/lana/issues) on our GitHub repository.
+If you encounter any issues while using Lana or have suggestions for improvement, please [open an issue](https://github.com/teja3002/lana/issues) on our GitHub repository.
 
 ## Contributing
 
