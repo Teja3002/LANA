@@ -25,7 +25,7 @@ Lana is a Python application that utilizes the OpenCV library and your computer'
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/lana.git
+   git clone https://github.com/teja3002/lana.git
    ```
 
 2. Install the required Python libraries using pip:
@@ -80,4 +80,4 @@ Lana is intended to provide guidance and reminders for maintaining healthy compu
 
 ---
 
-**Note:** Replace "yourusername" in the installation and troubleshooting sections with your actual GitHub username if you plan to host this project on GitHub.
+
